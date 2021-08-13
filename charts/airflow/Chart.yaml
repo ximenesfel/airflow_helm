@@ -6,3 +6,4 @@ appVersion: 0.0.1
 dependencies:
   - name: apache-airflow
     version: 1.1.0
+    url: https://artifacthub.io/packages/helm/apache-air
