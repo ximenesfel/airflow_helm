@@ -4,6 +4,6 @@ name: test
 version: 1.0.0
 appVersion: 0.0.1
 dependencies:
-  - name: apache-airflow
+  - name: airflow
     version: 1.1.0
-    url: https://artifacthub.io/packages/helm/apache-air
+    url: "https://airflow.apache.org/"
