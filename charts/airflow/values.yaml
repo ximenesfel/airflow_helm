@@ -1,4 +1,4 @@
 airflow:
-  extraEnv: |
-	  - name: AIRFLOW__CORE__LOAD_EXAMPLES
-		  value: 'True'
+   extraEnv: |
+      - name: AIRFLOW__CORE__LOAD_EXAMPLES
+        value: 'True'
