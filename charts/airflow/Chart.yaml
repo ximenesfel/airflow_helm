@@ -1,7 +1,7 @@
 ---
 apiVersion: v2
-name: airflow
-version: 1.0.6
+name: homolog
+version: 1.0.7
 appVersion: 0.0.1
 dependencies:
   - name: airflow
