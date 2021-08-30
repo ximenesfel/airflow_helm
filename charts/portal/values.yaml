@@ -10,5 +10,5 @@ airflow:
       # git@github.com:apache/airflow.git
       # https example: https://github.com/apache/airflow.git
       repo: https://github.com/ximenesfel/dags.git
-      branch: prod
+      branch: homolog
       subPath: "dags"
