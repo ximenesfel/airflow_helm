@@ -2,6 +2,12 @@ airflow:
   #  extraEnv: |
   #     - name: AIRFLOW__CORE__LOAD_EXAMPLES
   #       value: 'True'
+   redis:
+    persistence:
+      enabled: false
+   workers:
+    persistence:
+      enabled: false
    dags:
     gitSync:
       enabled: true
